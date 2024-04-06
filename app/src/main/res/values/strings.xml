@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">lesson1_3</string>
+    <string name="login">Введите логин</string>
+    <string name="send">отправить</string>
 </resources>
